@@ -1,5 +1,3 @@
----
-
 # 🚀 mysubdo - Subdomain Automation Tool
 
 `mysubdo` adalah tool berbasis Golang untuk melakukan **subdomain enumeration otomatis** dari berbagai sumber, kemudian menggabungkan hasilnya dan melakukan pengecekan host aktif menggunakan `httpx`.
