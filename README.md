@@ -43,6 +43,15 @@ go install github.com/projectdiscovery/httpx/cmd/httpx@latest
 
 ## ⚙️ Installation
 
+🔹 Install via Go (recommended)
+```bash
+go install github.com/siddiqodiq/mysubdo/cmd/mysubdo@latest
+```
+
+Pastikan $GOPATH/bin sudah masuk ke PATH.
+
+atau
+
 Clone repo:
 
 ```bash
